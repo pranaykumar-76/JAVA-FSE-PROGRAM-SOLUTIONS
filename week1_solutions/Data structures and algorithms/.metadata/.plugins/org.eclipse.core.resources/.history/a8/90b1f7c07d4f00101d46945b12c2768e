@@ -1,0 +1,28 @@
+import java.util.Arrays;
+
+public class TestSearch {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Product[] products = {
+	            new Product(101, "Laptop", "Electronics"),
+	            new Product(102, "Shoes", "Footwear"),
+	            new Product(103, "Watch", "Accessories"),
+	            new Product(104, "Phone", "Electronics"),
+	            new Product(105, "Bag", "Accessories")
+	        };
+
+	        // Linear Search
+	        Product foundLinear = searchAlgo.linearSearch(products, "Phone");
+	        System.out.println("Linear Search Result: " + (foundLinear != null ? foundLinear : "Not Found"));
+
+	        // Sort products by productName for binary search
+	        Arrays.sort(products);
+
+	        // Binary Search
+	        Product foundBinary = searchAlgo.binarySearch(products, "Phone");
+	        System.out.println("Binary Search Result: " + (foundBinary != null ? foundBinary : "Not Found"));
+	}
+
+}

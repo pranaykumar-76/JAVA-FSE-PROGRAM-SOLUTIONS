@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\hp\OneDrive\Documents\Digital Nuture\week1_solutions\Data structures and algorithms\.metadata\.plugins\org.eclipse.jdt.core
+3308677814.index
+250590947.index
+1865797976.index
