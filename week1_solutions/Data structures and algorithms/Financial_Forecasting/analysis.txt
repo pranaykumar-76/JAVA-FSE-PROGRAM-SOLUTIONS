@@ -1,0 +1,24 @@
+1.Understand Recursive Algorithms:
+Explain the concept of recursion and how it can simplify certain problems.
+
+Recursion is a programming technique where a function calls itself to solve smaller instances of the same problem. It simplifies problems that have a natural hierarchical or repetitive structure, like computing factorials, traversing trees by breaking them down into smaller subproblems until a base case is reached.
+
+
+4.Analysis:
+
+i)Discuss the time complexity of your recursive algorithm
+
+The time complexity of a recursive algorithm depends on:
+*Number of recursive calls made.
+*Work done per call (excluding recursion).
+For example:
+Factorial (n!): T(n) = T(n-1) + O(1) ⇒ O(n)
+Binary search: T(n) = T(n/2) + O(1) ⇒ O(log n)
+Always analyze the recurrence relation to determine time complexity. Use techniques like recursion trees or the Master Theorem for accurate analysis.
+
+ii)Explain how to optimize the recursive solution to avoid excessive computation
+
+*Memoization (Top-Down): Store results of subproblems in a cache (usually a map or array) to avoid recalculating them.
+Example: Optimizing Fibonacci from O(2ⁿ) to O(n).
+*Dynamic Programming (Bottom-Up): Convert recursion to iteration by solving smaller subproblems first and building up the solution.
+Example: Tabulation approach for DP problems

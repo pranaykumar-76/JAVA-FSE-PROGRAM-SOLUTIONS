@@ -1,0 +1,24 @@
+1.Understand Asymptotic Notation:
+i)Explain Big O notation and how it helps in analyzing algorithms
+
+Big O notation describes the worst-case growth rate of an algorithm’s runtime or space usage as the input size increases.It helps analyze and compare algorithms by focusing on their efficiency and scalability, ignoring constant factors and lower-order terms.For example:
+O(1): Constant time (fastest)
+O(log n): Logarithmic (binary search)
+O(n): Linear (simple loop)
+O(n²): Quadratic (nested loops)
+It helps developers choose the most efficient algorithm for large inputs.
+
+
+ii)Describe the best, average, and worst-case scenarios for search operations
+
+Linear Search:
+
+Best Case: O(1)→Element is at the first position.
+Average Case: O(n)→Element is in the middle.
+Worst Case: O(n)→Element is at the end or not found.
+
+Binary Search (on sorted data):
+
+Best Case: O(1)→Element is at the middle.
+Average Case: O(log n)→Element is somewhere in the list.
+Worst Case: O(log n)→Element is not found after full search.
