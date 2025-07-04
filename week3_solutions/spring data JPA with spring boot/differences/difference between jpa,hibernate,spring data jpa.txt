@@ -1,0 +1,27 @@
+1. JPA (Java Persistence API)
+Type: Specification (JSR 338)
+JPA is a standard interface defined by Java for Object-Relational Mapping (ORM). It provides a set of APIs to manage relational data in Java applications.
+
+Key Points:
+Not a framework or tool—just a specification.
+Defines annotations like @Entity, @Id, @OneToMany, etc.
+Requires a provider/implementation (like Hibernate) to actually perform the database operations.
+
+2. Hibernate
+Type: ORM Framework & JPA Provider
+Hibernate is a concrete implementation of the JPA specification. It also adds extra features beyond JPA.
+
+Key Points:
+Implements all JPA features and adds its own (e.g., caching, filters, interceptors).
+Can be used with or without JPA.
+Provides the actual engine that maps Java classes to DB tables and handles CRUD operations.
+
+3. Spring Data JPA
+Type: Spring Framework Abstraction Layer over JPA (and Hibernate)
+Spring Data JPA is part of the larger Spring Data project. It simplifies JPA-based data access with minimal boilerplate. Under the hood, it typically uses Hibernate as the default JPA provider.
+
+Key Points:
+Builds on top of JPA (and Hibernate)
+Provides Repository interfaces like JpaRepository, CrudRepository
+Automatically implements methods like findByName(), deleteById(), etc., based on method names.
+Greatly reduces the amount of manual DAO (Data Access Object) code.
