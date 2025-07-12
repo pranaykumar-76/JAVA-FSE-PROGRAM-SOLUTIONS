@@ -1,0 +1,5 @@
+package com.cognizant.springlearn5;
+
+public class AuthController {
+
+}

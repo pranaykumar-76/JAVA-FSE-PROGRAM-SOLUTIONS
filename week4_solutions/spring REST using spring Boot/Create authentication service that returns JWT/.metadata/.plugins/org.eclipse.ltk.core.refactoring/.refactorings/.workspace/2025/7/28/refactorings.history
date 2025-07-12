@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;spring-learn5&apos; to &apos;springlearn5&apos;&#x0D;&#x0A;- Original element: &apos;spring-learn5&apos;&#x0D;&#x0A;- Renamed element: &apos;spring-learn5&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;spring-learn5&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=spring-learn5" name="springlearn5" references="true" stamp="1752316504922" version="1.0"/>
+</session>
