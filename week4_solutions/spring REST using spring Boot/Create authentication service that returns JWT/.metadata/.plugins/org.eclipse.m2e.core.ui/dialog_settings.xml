@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\hp\OneDrive\Documents\Digital Nuture\week5_solutions\creating microservices for loan and account\empid123\microservices\loan"/>
+			<item value="C:\Users\hp\OneDrive\Documents\Digital Nuture\week5_solutions\creating microservices for loan and account\empid123\microservices\account"/>
 			<item value="C:\Users\hp\Downloads\springlearn5\springlearn5"/>
 		</list>
 		<list key="projectNameTemplate">

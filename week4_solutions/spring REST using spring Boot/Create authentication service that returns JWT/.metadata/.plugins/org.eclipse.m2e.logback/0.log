@@ -282,3 +282,36 @@
 2025-07-12 16:32:09,785 [Worker-19: Launching SpringLearn5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-07-12 16:32:09,792 [Worker-19: Launching SpringLearn5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-07-12 16:32:09,798 [Worker-19: Launching SpringLearn5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-07-20 16:47:38,427 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-07-20 16:48:14,175 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:account:0.0.1-SNAPSHOT @ C:\Users\hp\OneDrive\Documents\Digital Nuture\week5_solutions\creating microservices for loan and account\empid123\microservices\account\pom.xml.
+2025-07-20 16:48:18,869 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /account/src/main/java
+2025-07-20 16:48:18,876 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /account/src/main/resources
+2025-07-20 16:48:18,887 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /account/src/main/resources
+2025-07-20 16:48:18,899 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /account/src/test/java
+2025-07-20 16:48:18,901 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /account/src/test/resources
+2025-07-20 16:48:22,401 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2025-07-20 16:48:28,897 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-20 16:48:29,130 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-20 16:48:29,145 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\OneDrive\Documents\Digital Nuture\week5_solutions\creating microservices for loan and account\empid123\microservices\account\src\test\resources
+2025-07-20 16:49:43,942 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-20 16:49:43,952 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-20 16:49:43,960 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\OneDrive\Documents\Digital Nuture\week5_solutions\creating microservices for loan and account\empid123\microservices\account\src\test\resources
+2025-07-20 16:51:27,444 [Worker-29: Launching AccountApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-20 16:51:27,455 [Worker-29: Launching AccountApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-20 16:51:27,460 [Worker-29: Launching AccountApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\OneDrive\Documents\Digital Nuture\week5_solutions\creating microservices for loan and account\empid123\microservices\account\src\test\resources
+2025-07-20 16:56:12,102 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:loan:0.0.1-SNAPSHOT @ C:\Users\hp\OneDrive\Documents\Digital Nuture\week5_solutions\creating microservices for loan and account\empid123\microservices\loan\pom.xml.
+2025-07-20 16:56:14,274 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loan/src/main/java
+2025-07-20 16:56:14,276 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loan/src/main/resources
+2025-07-20 16:56:14,289 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loan/src/main/resources
+2025-07-20 16:56:14,300 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loan/src/test/java
+2025-07-20 16:56:14,302 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loan/src/test/resources
+2025-07-20 16:56:16,760 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2025-07-20 16:56:17,449 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-20 16:56:17,485 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-20 16:56:17,490 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\OneDrive\Documents\Digital Nuture\week5_solutions\creating microservices for loan and account\empid123\microservices\loan\src\test\resources
+2025-07-20 16:57:23,880 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-20 16:57:23,896 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-20 16:57:23,930 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\OneDrive\Documents\Digital Nuture\week5_solutions\creating microservices for loan and account\empid123\microservices\loan\src\test\resources
+2025-07-20 16:59:28,364 [Worker-44: Launching LoanApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-20 16:59:28,400 [Worker-44: Launching LoanApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-20 16:59:28,407 [Worker-44: Launching LoanApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\OneDrive\Documents\Digital Nuture\week5_solutions\creating microservices for loan and account\empid123\microservices\loan\src\test\resources
